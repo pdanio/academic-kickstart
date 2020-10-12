@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
-subtitle = ""
+title = " "
+subtitle = "We bridge together the fields of law, data science and medicine to support governments and institutions in the advancement of regulatory sciences"
 
 # Showcase personal skills or business features.
 # 
@@ -15,22 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "book"
+  icon_pack = "fas"
+  name = "Law"
+  description = "Public law, Health law, and Technology law"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Technology"
+  description = "Legal tech, Drug price modeling"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "stethoscope"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Medicine"
+  description = "Evidence-based health policy, Medical devices"
 
 # Uncomment to use emoji icons.
 # [[feature]]
