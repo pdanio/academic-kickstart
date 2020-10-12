@@ -1,14 +1,14 @@
 +++
 # Hero widget.
-widget = "hero"  # See https://wowchemy.com/docs/page-builder/
+widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic Template"
+title = "Krauthammer Lab"
 
-# Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "hero-academic.png"
+# Hero image (optional). Enter filename of an image in the `static/img/` folder.
+# hero_media = "team_at_irchel.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -24,11 +24,11 @@ hero_media = "hero-academic.png"
   gradient_end = "#2b94c3"
   
   # Background image.
-  # image = ""  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  image = "uzh_usz_eth.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.45  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -37,22 +37,24 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://wowchemy.com/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
-  
-[cta_alt]
-  url = "https://wowchemy.com"
-  label = "View Documentation"
+  url = "https://twitter.com/krauthammerlab"
+  label = "Follow us on Twitter"
+  icon_pack = "fab"
+  icon = "twitter"
 
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
+[cta_alt]
+  url = "https://github.com/uzh-dqbm-cmi"
+  label = "We're on GitHub"
+  icon_pack = "fab"
+  icon = "github"
+
+# # Note. An optional note to show underneath the links.
+# [cta_note]
+#   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+<p style="font-size:20px"> University of Zurich & University Hospital Zurich </p>
 
-Build **Anything** with Widgets
+# $ health = f(data) $
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+<br>
