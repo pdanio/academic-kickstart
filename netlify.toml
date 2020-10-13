@@ -5,10 +5,10 @@
 [build.environment]
   HUGO_VERSION = "0.75.1"
   HUGO_ENABLEGITINFO = "true"
+  HUGO_THEME = "academic"
 
 [context.production.environment]
   HUGO_ENV = "production"
-  HUGO_THEME = "academic"
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
