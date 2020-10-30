@@ -7,14 +7,14 @@ authors:
 - paoladaniore
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Researcher-1
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Zurich RWI
+- name: University of Zurich 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - program: Management, Technology and Economics (M.Sc.)
+  - course: Management, Technology and Economics (M.Sc.)
     university: ETH Zurich, Switzerland
     graduation year: 2019
-  - program: B.Eng. Chemical Engineering
+  - course: B.Eng. Chemical Engineering
     university: McGill University, Canada
     graduation year: 2015
 
