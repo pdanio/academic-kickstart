@@ -1,6 +1,6 @@
 +++
 # Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
@@ -54,7 +54,10 @@ weight = 10  # Order that this section will appear.
 +++
 
 
+<center>
+<br>
 <p style="font-size:48px"> <strong> Vokinger Research Group </strong> </p>
 <p style="font-size:20px"> University of Zurich </p>
 <br>
+</center>
 
