@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 95  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Announcements"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 3
+  count = 5
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -29,19 +29,6 @@ subtitle = ""
   #   category = ""
   #   publication_type = ""
   #   exclude_featured = false
-
-  # LK: I don't understand why this doesn't work
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
-
-  [[content.filter_button]]
-    name = "Talks"
-    tag = "Talks"
-
-  [[content.filter_button]]
-    name = "Fun"
-    tag = "Fun"
 
 [design]
   # Toggle between the various page layout types.
