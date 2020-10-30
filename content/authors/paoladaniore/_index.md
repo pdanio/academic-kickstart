@@ -38,10 +38,10 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and your uzh email up to before the '@'.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: "paola.daniore"
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: "paoladaniore"
 
 
 # - icon: github
