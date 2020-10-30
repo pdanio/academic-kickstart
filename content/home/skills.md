@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = " "
+title = "Interdisciplinary Research Focus"
 subtitle = "We bridge together the fields of law, data science and medicine to support governments and institutions in the advancement of regulatory sciences"
 
 # Showcase personal skills or business features.
