@@ -13,15 +13,8 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigator",
-                 "Senior Researchers and Postdocs",
-                 "Grad Students",
-                 "Research Assistants",
-                 "Research Software Engineers",
-                 "Administrators",
-                 "Affiliated Researchers",
-                 "Alumni",
-                 "Mascots"]
+  user_groups = ["Head of Research Group",
+                 "Research Assistants"]
 
 [design]
   # Show user's social networking links? (true/false)
