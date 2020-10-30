@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "kn.vokinger"
+  link: "knvokinger"
 
 
 # - icon: github
