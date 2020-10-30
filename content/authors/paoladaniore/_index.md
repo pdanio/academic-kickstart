@@ -59,7 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researcher Assistants
+- Researchers
 ---
 
 Paola is interested in the application of data science in healthcare, in order to contribute to the development of health policy.
