@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 # title = "Vokinger Research Group"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-# hero_media = "team_at_irchel.jpg"
+# hero_media = "team.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -37,13 +37,13 @@ weight = 10  # Order that this section will appear.
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 # [cta]
-#   url = "https://twitter.com/krauthammerlab"
+#   url = "https://twitter.com/vokingerlab"
 #   label = "Follow us on Twitter"
 #   icon_pack = "fab"
 #   icon = "twitter"
 
 # [cta_alt]
-#   url = "https://github.com/uzh-dqbm-cmi"
+#   url = "https://github.com/pdanio"
 #   label = "We're on GitHub"
 #   icon_pack = "fab"
 #   icon = "github"
