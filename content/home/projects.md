@@ -26,8 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
+    name = "Featured"
+    tag = "Featured"
+  
+  [[content.filter_button]]
     name = "Medicine and Technology"
-    tag = "Deep Learning"
+    tag = "Data Science"
   
   [[content.filter_button]]
     name = "Law and Legal Tech"
