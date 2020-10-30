@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Vokinger Research Group"
+# title = "Vokinger Research Group"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "team_at_irchel.jpg"
