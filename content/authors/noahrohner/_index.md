@@ -58,7 +58,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researcher
+- Researcher Assistants
 ---
 
 Noah is a Research Assistant and studies law at the University of Zurich. He is focusing on public law, health law, and technology law.
