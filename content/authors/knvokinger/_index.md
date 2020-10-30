@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PI
+role: Head of Research Group
 
 # Organizations/Affiliations
 organizations:
