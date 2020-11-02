@@ -2,13 +2,7 @@
 title: "Digital health and the COVID-19 epidemic: an assessment framework for apps from and epidemiological and legal perspective"
 date: 2020-05-17
 publishDate: 2020-05-17T16:26:43.106027Z
-authors: 
-- Vokinger, K. N.
-- Vasileios, N.
-- Witt, C.M.
-- Tibau, A.
-- Fabrikant, S.I.
-- von Wyl, V. 
+authors: ["Vokinger, K.N.", "Vasileios, N.", "Witt, C.M.", "Tibau, A.", "Fabrikant, S.I.","von Wyl, V."]
 publication_types: ["2"]
 abstract: "As COVID-19 spreads across the globe, crowdsourced digital technology harbours the potential to improve surveillance and epidemic control, primarily through increased information coverage, higher information speed, fast case tracking and improved proximity tracing. Targeting those aims, COVID-19-related smartphone and web-based health applications are continuously emerging, leading to a multitude of options, raising ethical and legal challenges and potentially overwhelming end users.
 
