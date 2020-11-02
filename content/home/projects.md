@@ -31,7 +31,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Medicine and Technology"
-    tag = "Data Science"
+    tag = "Medicine and Technology"
   
   [[content.filter_button]]
     name = "Law and Legal Tech"
