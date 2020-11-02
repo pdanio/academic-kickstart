@@ -1,6 +1,6 @@
 ---
-title: Long-read sequencing - Part I
-summary: An introduction to long-read sequencing.
+title: Prices and clinical benefit of cancer drugs in the USA and Europe
+summary: A cost-benefit analysis
 authors: 
 - zsoltbalazs
 date: 2020-01-27
