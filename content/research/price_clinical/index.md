@@ -11,7 +11,7 @@ categories:
 - Medicine and Technology
 image:
   placement: 2
-  caption: 'Prices and clinical benefit of cancer drugs in the USA and Europe: a cost–benefit analysis. https://www.europeanpharmaceuticalreview.com/wp-content/uploads/Campaign-calls-for-more-effort-to-combat-fake-medicines.gif'
+  caption: 'Prices and clinical benefit of cancer drugs in the USA and Europe: a cost–benefit analysis. Source: https://www.europeanpharmaceuticalreview.com/wp-content/uploads/Campaign-calls-for-more-effort-to-combat-fake-medicines.gif'
   focal_point: ""
   preview_only: false
 projects: []
