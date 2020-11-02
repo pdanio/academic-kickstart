@@ -2,7 +2,7 @@
 title: Prices and clinical benefit of cancer drugs in the USA and Europe
 summary: A cost-benefit analysis
 authors: 
-- zsoltbalazs
+- knvokinger
 date: 2020-01-27
 tags: 
 - Medicine and Technology
