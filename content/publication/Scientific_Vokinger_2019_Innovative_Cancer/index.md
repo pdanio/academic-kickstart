@@ -3,7 +3,7 @@ title: "Characteristics of Regulatory Approval of Innovative vs. Non-Innovative 
 date: 2019-06-04
 publishDate: 2019-06-04T16:26:43.106027Z
 authors: ["Vokinger, K. N.", "Kesselheim, A. S."] 
-publication_types: ["3"]
+publication_types: ["2"]
 abstract: "Successful first-generation drugs can be converted with small alterations to second-generation drugs, which are cheaper to develop and may pose less financial risk for manufacturers due to already validated action mechanism and a well-defined consumer market."
 featured: False
 publication: "Health Policy"
