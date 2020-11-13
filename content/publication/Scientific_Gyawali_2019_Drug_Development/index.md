@@ -8,5 +8,6 @@ abstract: "Historically, patient experience, including symptomatic toxicities, p
 featured: False
 publication: "American Society Clinical Oncology Education Book"
 url_pdf: "https://ascopubs.org/doi/pdf/10.1200/EDBK_242229"
+doi: "10.1200/EDBK_242229"
 ---
 
