@@ -1,6 +1,6 @@
 ---
 title: "Lifecycle Regulation of Artificial Intelligence and Machine Learning-Based Software in Medicine"
-date: 2021-01-01
+date: 2020-01-01
 authors: ["Vokinger, K. N.", "Grischott, T.", "Reichert, S.", "Tibau, A.", "Rosemann, T.J.", "Kesselheim, A.S."] 
 publication_types: ["3"]
 featured: False
