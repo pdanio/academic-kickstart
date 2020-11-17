@@ -6,5 +6,4 @@ authors: ["Vokinger, K.N."]
 publication_types: ["4"]
 featured: False
 publication: "Life Science Recht"
-url_pdf: "https://lsr.recht.ch/fr/node/8111/pdf"
 ---
