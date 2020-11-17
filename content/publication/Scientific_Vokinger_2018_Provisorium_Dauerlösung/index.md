@@ -1,5 +1,5 @@
 ---
-title: "Vom Provisorium zur Dauerlösung? - Eine Würdigung der vom Bundesrat vorgelegten Lösung zum "Ärzte-Stopp" bzw. zur "Zulassungssteuerung""
+title: "Vom Provisorium zur Dauerlösung? - Eine Würdigung der vom Bundesrat vorgelegten Lösung zum Ärzte-Stopp bzw. zur Zulassungssteuerung"
 date: 2018-01-29
 publishDate: 2018-01-291T16:26:43.106027Z
 authors: ["Vokinger, K.N.", "Staffelbach, D.", "Rosemann, T.", "Muehlematter U.J."] 
