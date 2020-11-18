@@ -21,7 +21,7 @@
 [[main]]
   name = "Advisory"
   url = "advisory/"
-  weight = 30  
+  weight = 35  
 
 [[main]]
   name = "Publications"
