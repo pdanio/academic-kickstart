@@ -54,7 +54,7 @@ weight = 10  # Order that this section will appear.
 +++
 
 <p>Vokinger Research Group</p>
-<p>University of Zurich</p>
+<p style="text-indent: 40px">University of Zurich</p>
 
 
 
