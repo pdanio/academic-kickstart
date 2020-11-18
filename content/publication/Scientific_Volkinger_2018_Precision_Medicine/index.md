@@ -2,6 +2,8 @@
 title: "Access to Precision Medicines in Oncology: A Comparative Analysis (USA and EU) and Health Policy Implications"
 authors: 
 - knvokinger
+- Muehlematter, U.J.
+- Rosemann, T.J.
 publishDate: "2018-07-01T00:00:00Z"
 publication_types: ["2"]
 publication: "*Public Health Genomics*"
@@ -9,11 +11,3 @@ abstract: "Social health insurance is mandatory in Switzerland and covers the co
 featured: false
 url_pdf: "https://www.karger.com/Article/Pdf/501562"
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
