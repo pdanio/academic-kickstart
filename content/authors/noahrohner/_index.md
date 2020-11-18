@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Noah Rohner
+title: Noah Rohner
 
 # Username (this should match the folder name)
 authors:
