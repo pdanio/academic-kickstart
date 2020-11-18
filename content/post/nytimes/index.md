@@ -1,5 +1,6 @@
 ---
 title: Drug Benefit Guarantee and Impacts on COVID-19 Vaccine Regulations
+summary: Coverage on the New York Times
 authors: 
 - paoladaniore
 date: 2020-10-29
