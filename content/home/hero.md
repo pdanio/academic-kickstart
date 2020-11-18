@@ -53,11 +53,10 @@ weight = 10  # Order that this section will appear.
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-<br>
-<p style="font-size:48px"> <strong> Vokinger Research Group </strong> </p>
-<center> <p style="font-size:20px"> University of Zurich </p> </center>
-<br>
-
+<header>
+    <h1> Vokinger Research Group </h1>
+    <p>University of Zurich</p>
+</header>
 
 
 
