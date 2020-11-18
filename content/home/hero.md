@@ -52,9 +52,12 @@ weight = 10  # Order that this section will appear.
 # [cta_note]
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
-
-
-{{< myshortcode >}}<p>Hello <strong>World!</strong></p>{{< /myshortcode >}}
+<center>
+<br>
+<p style="font-size:48px"> <strong> Vokinger Research Group </strong> </p>
+<p style="font-size:20px"> University of Zurich </p>
+<br>
+</center>
 
 
 
