@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Prof. Dr. iur. Et Dr. med. Kerstin Noelle Vokinger, LL.M.
+title: Prof. Dr. iur. Et Dr. med. Kerstin Noelle Vokinger, LL.M.
 
 # Username (this should match the folder name)
 authors:
