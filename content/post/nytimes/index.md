@@ -3,10 +3,6 @@ title: Coverage by the New York Times
 authors: 
 - paoladaniore
 date: 2020-10-29
-tags: 
-- Media
-categories:
-- Media
 image:
   placement: 1
   caption: 'Gilead’s Covid-19 Drug is Mediocre. It Will Be a Blockbuster Anyway'
