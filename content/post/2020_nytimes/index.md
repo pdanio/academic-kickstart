@@ -3,7 +3,7 @@ title: 'Drug Benefit Guarantee and Impacts on COVID-19 Vaccine Regulations'
 subtitle: 'Coverage on the New York Times'
 summary: Coverage on the New York Times
 authors: 
-- paoladaniore
+- knvokinger
 featured: true
 date: "2020-10-29T00:00:00Z"
 image:
