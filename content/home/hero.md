@@ -55,7 +55,7 @@ weight = 10  # Order that this section will appear.
 
 <br>
 <p style="font-size:48px"> <strong> Vokinger Research Group </strong> </p>
-<p style="font-size:20px"> University of Zurich </p>
+<center> <p style="font-size:20px"> University of Zurich </p> </center>
 <br>
 
 
