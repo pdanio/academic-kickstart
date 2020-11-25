@@ -1,7 +1,7 @@
 ---
 title: 'Clinical Benefit of Cancer Drugs and Pricing'
-subtitle: 'Coverage on ESMO'
-summary: Coverage on ESMO
+subtitle: 'Coverage by the European Society of Medical Oncology (ESMO)'
+summary: Coverage by the European Society of Medical Oncology (ESMO)
 authors: 
 - knvokinger
 featured: true
