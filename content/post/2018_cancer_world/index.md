@@ -14,4 +14,4 @@ image:
 projects: []
 ---
 
-Coverage on [Cancer World](https://cancerworld.net/news/reimbursement-of-newly-approved-cancer-drugs-may-take-more-than-one-year/). 
+Coverage on [Cancer World](https://cancerworld.net/news/reimbursement-of-newly-approved-cancer-drugs-may-take-more-than-one-year). 
