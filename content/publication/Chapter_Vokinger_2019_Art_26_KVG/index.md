@@ -2,7 +2,7 @@
 title: "Kommentar zu Art. 26 KVG"
 publishDate: "2019-01-01T00:00:00Z"
 authors: 
- - Kerstin Noëlle Vokinger  
+ - knvokinger_author
  - Felix Gutzwiller 
 publication_types: ["6"]
 featured: False
