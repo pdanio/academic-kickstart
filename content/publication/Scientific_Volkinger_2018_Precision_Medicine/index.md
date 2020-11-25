@@ -1,7 +1,7 @@
 ---
 title: "Access to Precision Medicines in Oncology: A Comparative Analysis (USA and EU) and Health Policy Implications"
 authors: 
-- Kerstin Noelle Vokinger
+- Kerstin Noëlle Vokinger
 - Urs Jakob Muehlematter
 - Thomas J. Rosemann
 publishDate: "2018-07-01T00:00:00Z"
