@@ -4,7 +4,7 @@ publishDate: "2018-01-01T00:00:00Z"
 authors: 
  - Michael Isler
  - David Vasella
- - Kerstin Noëlle Vokinger
+ - knvokinger_author
 publication_types: ["4"]
 featured: False
 ---
