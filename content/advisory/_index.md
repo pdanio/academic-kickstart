@@ -1,6 +1,5 @@
 ---
-title: Advisory Mandates
-
+title: Advisory Projects
 # View.
 #   1 = List
 #   2 = Compact
