@@ -1,5 +1,5 @@
 ---
-title: Advisory Projects
+title: Advisory Mandates
 
 # View.
 #   1 = List
