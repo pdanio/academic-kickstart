@@ -4,7 +4,7 @@ publishDate: "2019-05-17T00:00:00Z"
 authors: 
  - Bishal Gyawali
  - Thomas J. Hwang
- - ‬Kerstin Noëlle Vokinger
+ - knvokinger_author
  - Christopher M. Booth
  - Eitan Amir
  - Ariadna Tibau
