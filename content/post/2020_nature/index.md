@@ -14,4 +14,4 @@ image:
 projects: []
 ---
 
-Our recently published [study](https://www.sciencedirect.com/science/article/pii/S147020452030139X?via%3Dihub) on the association between the clinical benefit of recently approved cancer drugs and their average monthly treatment costs at launch was mentioned in [Nature Outlook](https://www.nature.com/articles/d41586-020-02674-x). As access to precision oncology treatments is increasing, our study highlights the importance of forming coalitions between countries in order to improve alignment of pricing and benefit.
+Our recently published [study](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(20)30139-X/fulltext) on the association between the clinical benefit of recently approved cancer drugs and their average monthly treatment costs at launch was mentioned in [Nature Outlook](https://www.nature.com/articles/d41586-020-02674-x). As access to precision oncology treatments is increasing, our study highlights the importance of forming coalitions between countries in order to improve alignment of pricing and benefit.
