@@ -6,6 +6,6 @@ authors:
  - Kerstin Noëlle Vokinger
 publication_types: ["4"]
 featured: False
-publication: "HAVE"
+publication: "*HAVE*"
 ---
 
