@@ -2,7 +2,7 @@
 title: "Lifecycle Regulation of Artificial Intelligence and Machine Learning-Based Software in Medicine"
 publishDate: "2020-01-01T00:00:00Z"
 authors: 
- - Kerstin Noëlle Vokinger 
+ - knvokinger_author 
  - Thomas J. Hwang
  - Aaron S. Kesselheim
 publication_types: ["3"]
