@@ -14,3 +14,4 @@ image:
 projects: []
 ---
 
+Prof. Vokinger was mentioned on [Plaedoyer](https://www.plaedoyer.ch/artikel/artikeldetail/interessante-schnittstelle-zwischen-recht-und-medizin/).
