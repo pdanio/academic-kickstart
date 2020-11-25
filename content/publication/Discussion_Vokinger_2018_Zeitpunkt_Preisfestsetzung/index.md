@@ -1,10 +1,10 @@
 ---
 title: "Zeitpunkt für die Preisfestsetzung beim therapeutischen Quervergleich, BGE 143 V 139 vom 23. Mai 2017"
-date: 2018-02-01
-publishDate: 2018-02-01T16:26:43.106027Z
-authors: ["Vokinger, K.N."] 
+publishDate: "2018-02-01T00:00:00Z"
+authors:
+- Kerstin Noëlle Vokinger
 publication_types: ["4"]
 featured: False
-publication: "Life Science Recht"
+publication: "*Life Science Recht*"
 ---
 
