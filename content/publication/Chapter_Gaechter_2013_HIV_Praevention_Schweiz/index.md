@@ -3,7 +3,7 @@ title: "HIV-Prävention in der Schweiz"
 publishDate: 2013-10-01T00:00:00Z
 authors: 
 - Thomas Gaechter
-- knvokinger
+- Kerstin Noelle Vokinger
 publication_types: ["6"]
 featured: False
 publication: "*Entwicklungen und Perspektiven, in: Ärztekammer Mecklenburg-Vorpommern (Hrsg.), Die Dekriminalisierungsaspekte und ihre rechtlichen Folgen, 5. Workshop des AIDS-Ausschusses der Ärztekammer Mecklenburg-Vorpommern 2013 *"
