@@ -1,5 +1,5 @@
 ---
-title: 'Clinical Benefit of Cancer Drugs and Pricing'
+title: 'Expensive Cancer Treatments and Association with Clinical Benefit'
 subtitle: 'Coverage on SRF'
 summary: Coverage on SRF
 authors: 
