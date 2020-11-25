@@ -4,7 +4,7 @@ title: Kerstin Noelle Vokinger
 
 # Username (this should match the folder name)
 authors:
-- knvokinger
+- knvokinger_author
 
 # Is this the primary user of the site?
 superuser: true
