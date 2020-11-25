@@ -7,7 +7,7 @@ title: Advisory Projects
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header: "We offer advisory services to governments and institutions."
+header: We offer advisory services to governments and institutions.
   caption: "We offer advisory services to governments and institutions."
   image: ""
 ---
