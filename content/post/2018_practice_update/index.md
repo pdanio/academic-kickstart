@@ -1,5 +1,5 @@
 ---
-title: 'Clinical Benefit of Cancer Drugs and Associated Time to Approval'
+title: 'Clinical Benefit of Cancer Drugs and Associated Time to Reimbursement'
 subtitle: 'Coverage on Practice Update'
 summary: Coverage on Practice Update
 authors: 
