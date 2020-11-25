@@ -2,8 +2,8 @@
 title: "Access to Precision Medicines in Oncology: A Comparative Analysis (USA and EU) and Health Policy Implications"
 authors: 
 - knvokinger
-- "Muehlematter, U.J."
-- "Rosemann, T.J."
+- Muehlematter, U.J.
+- Rosemann, T.J.
 publishDate: "2018-07-01T00:00:00Z"
 publication_types: ["2"]
 publication: "*Public Health Genomics*"
