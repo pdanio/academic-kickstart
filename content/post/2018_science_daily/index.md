@@ -1,7 +1,7 @@
 ---
 title: 'Clinical Benefit of Cancer Drugs and Associated Time to Reimbursement'
-subtitle: 'Coverage on Cancer World'
-summary: Coverage on Cancer World
+subtitle: 'Coverage on Science Daily'
+summary: Coverage on Science Daily
 authors: 
 - knvokinger
 featured: true
