@@ -5,5 +5,5 @@ authors:
  - knvokinger_author
 publication_types: ["3"]
 featured: False
-publication: "Trüeb Hans Rudolf (Hrsg.), Kommentar zum Bundesgesetz über das Beschaffungswesen, Zürich/Basel/Genf "
+publication: "*Trüeb Hans Rudolf (Hrsg.), Kommentar zum Bundesgesetz über das Beschaffungswesen, Zürich/Basel/Genf*"
 ---
