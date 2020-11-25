@@ -1,5 +1,5 @@
 ---
-title: 'Federal Supreme Court Rulings in Switzerland of Medical Cases'
+title: 'Federal Supreme Court Rulings of Medical Cases in Switzerland'
 subtitle: 'Coverage on Plaedoyer'
 summary: Coverage on Plaedoyer
 authors: 
