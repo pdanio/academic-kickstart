@@ -5,7 +5,7 @@ summary: Coverage on Scientific American
 authors: 
 - knvokinger
 featured: true
-date: "2020-12-24T00:00:00Z"
+date: "2020-12-23T00:00:00Z"
 image:
   placement: 1
   caption: 'Artificial Intelligence Is Rushing Into Patient Care—And Could Raise Risks'
