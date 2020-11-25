@@ -2,7 +2,7 @@
 title: "Pharmacoepidemiology and the Law"
 publishDate: "2019-10-18T00:00:00Z"
 authors: 
-- Kesselheim, A. 
+- Aaron Seth Kesselheim  
 - knvokinger 
 publication_types: ["6"]
 featured: False
