@@ -1,6 +1,6 @@
 ---
 title: "Kommentar zu Art. 24 KVG"
-date: "2019-01-01T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 authors:
 - Kerstin Noëlle Vokinger 
 publication_types: ["6"]
