@@ -8,6 +8,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "We offer advisory services to governments and institutions."
   image: ""
 ---
