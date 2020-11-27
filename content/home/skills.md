@@ -50,7 +50,7 @@ subtitle = "We bridge together the fields of law, data science and medicine to s
 
 +++
 
-
+[More Information]({{< ref "/about/_index.md" >}})
 
 
 
