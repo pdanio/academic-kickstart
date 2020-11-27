@@ -39,4 +39,4 @@ Wir sind ein junges, interdisziplinäres Team mit Expertise im öffentlichen Rec
 
 
 
-Bewerbungen werden laufend evaluiert bis die Stelle besetzt ist. Bitte Ihre Bewerbung (Motivationsschreiben, CV, Leistungsausweis, Masterarbeit) an dieser <a href="#" onclick="u='lst.vokinger'; d='rwi.uzh.ch'; return false">e-mail</a> zustellen.
+Bewerbungen werden laufend evaluiert bis die Stelle besetzt ist. Bitte Ihre Bewerbung (Motivationsschreiben, CV, Leistungsausweis, Masterarbeit) an lst.vokinger@rwi.uzh.ch zustellen.
