@@ -38,5 +38,4 @@ Wir sind ein junges, interdisziplinäres Team mit Expertise im öffentlichen Rec
 - Möglichkeit, eigene Forschungsprojekte zu entwickeln
 
 
-
 Bewerbungen werden laufend evaluiert bis die Stelle besetzt ist. Bitte Ihre Bewerbung (Motivationsschreiben, CV, Leistungsausweis, Masterarbeit) an lst.vokinger@rwi.uzh.ch zustellen.
