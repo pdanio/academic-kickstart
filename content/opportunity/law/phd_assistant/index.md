@@ -1,35 +1,43 @@
 ---
-title: We are looking for Masters Students!
+title: Wissenschaftliche Assistenz / Doktorandenstelle im Bereich des öffentlichen Rechts (Schwerpunkt Staatsrecht, Datenrecht, Technologierecht)
+50-100 %
 authors:
 - knvokinger
 tags: 
-- Data Science
-- Bioinformatics
-- Opportunities
+- State Law
+- Technology Law
+- Open Positions
 categories:
-- Data Science
-- Bioinformatics
+- Law
 
 # list the projects you want masters students for here, if there are pages for them
 # projects: []
 ---
 
-We are currently looking for Master's students in the field of bioinformatics for the following topics
+Wir sind ein junges, interdisziplinäres Team mit Expertise im öffentlichen Recht, der Medizin, Ökonomie und Data Science. Per 1. Februar 2021 (oder später) ist eine Doktorandenstelle im öffentlichen Recht (mit Fokus auf Datenrecht und Technologierecht) zu besetzen. Bewerbungen von Masterstudierenden, die ihr Studium im FS 2021 oder HS 2021 abschliessen, sind ebenfalls willkommen.
 
-### Data integration in Cancer Genomics
+### Ihre Aufgaben
 
-The project's aim is to characterize the effects of transcriptional and epigenetic processes on mutational patterns in cancer.
-The student should have basic experience with Unix systems and some experience with at least one scripting language (e.g. Python, R or bash). Prior experience with genomics software (mappers, samtools or variant callers) is an advantage.
+- Ausarbeitung einer juristischen Dissertation
+- Unterstützung in Forschungsprojekten
 
-### Mapping structural variation in cancer
+### Ihr Profil
 
-Genome sequencing data are going to be used in order to discover novel structural variants in various cancer types (melanoma,   colorectal carcinoma, lung cancer, etc.). The clinical significance of the novel and already known structural variants will also be evaluated using genome annotations.
-The student should have basic experience with Unix systems and some experience with at least one scripting language (e.g. Python). Prior experience with genomics software (mappers, samtools or variant callers) is an advantage. 
+- Sehr guter Leistungsausweis
+- Sehr gute Kenntnisse im öffentlichen Recht (Staatsrecht und Verwaltungsrecht)
+- Gute Kenntnisse im (oder zumindest Interesse am) Datenrecht, Technologierecht
+- Stilsicheres Deutsch und gute Englischkenntnisse
+- Hohe Leistungsbereitschaft
+- Sorgfältiges und zuverlässiges Arbeiten
 
-### Analyzing cell-free DNA fragmentation patterns in clinical samples
+### Wir bieten Ihnen
 
-This project aims to improve diagnosis and prognosis through liquid biopsies in cancer and various other diseases. 
-The student should have basic experience with Unix systems, some experience with at least one scripting language (e.g. Python) and a basic understanding of machine learning algorithms.
+- Interessante Forschungsprojekte in einem jungen, dynamischen, interdisziplinären und motivierten Team
+- Kollaboration mit Wissenschaftlern aus anderen Fakultäten und Universitäten
+- Möglichkeit, an nationalen und internationalen Konferenzen teilzunehmen
+- Möglichkeit, in nationales und internationales wissenschaftliches Journal zu publizieren
+- Möglichkeit, eigene Forschungsprojekte zu entwickeln
 
 
-Applications can be done by sending a CV to this <a href="#" onclick="u='michael.krauthammer'; d='uzh.ch'; prompt('Copy address to clipboard',u+'@'+d); return false">e-mail</a> along with a short description of the student's motivation to join our lab.
+
+Bewerbungen werden laufend evaluiert bis die Stelle besetzt ist. Bitte Ihre Bewerbung (Motivationsschreiben, CV, Leistungsausweis, Masterarbeit) an <a href="#" onclick="u='lst.vokinger'; d='rwi.uzh.ch'; prompt('Copy address to clipboard',u+'@'+d); return false">e-mail</a> zustellen.
