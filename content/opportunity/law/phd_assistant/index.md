@@ -38,5 +38,3 @@ Wir sind ein junges, interdisziplinäres Team mit Expertise im öffentlichen Rec
 - Möglichkeit, eigene Forschungsprojekte zu entwickeln
 
 
-
-Bewerbungen werden laufend evaluiert bis die Stelle besetzt ist. Bitte Ihre Bewerbung (Motivationsschreiben, CV, Leistungsausweis, Masterarbeit) an <a href="#" onclick="u='lst.vokinger'; d='rwi.uzh.ch'; prompt('Copy address to clipboard',u+'@'+d); return false">e-mail</a> zustellen.
