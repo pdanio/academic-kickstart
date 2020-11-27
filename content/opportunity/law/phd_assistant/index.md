@@ -1,6 +1,5 @@
 ---
-title: Wissenschaftliche Assistenz / Doktorandenstelle im Bereich des öffentlichen Rechts (Schwerpunkt Staatsrecht, Datenrecht, Technologierecht)
-50-100 %
+title: Wissenschaftliche Assistenz / Doktorandenstelle im Bereich des öffentlichen Rechts (Schwerpunkt Staatsrecht, Datenrecht, Technologierecht) 50-100 %
 authors:
 - knvokinger
 tags: 
