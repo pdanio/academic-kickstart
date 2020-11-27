@@ -8,12 +8,9 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header: 
-  caption: "We offer advisory services to governments and institutions."
+  caption: ""
   image: ""
 ---
 <body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
+<p>We offer advisory services to governments and institutions.</p>
 </body>
