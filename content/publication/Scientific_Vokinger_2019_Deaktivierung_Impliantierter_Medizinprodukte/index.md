@@ -1,6 +1,6 @@
 ---
 title: "Zulässigkeit der Deaktivierung implantierter Medizinprodukte am Lebensende? Eine staatsrechtliche, strafrechtliche, berufsrechtliche, medizinische und ethische Würdigung am Beispiel des Herzschrittmachers"
-publishDate: "2019-01-28T00:00:01Z"
+publishDate: "2019-01-28T00:00:00Z"
 authors: 
  - knvokinger_author
  - Tanja Krones
