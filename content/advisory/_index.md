@@ -12,5 +12,5 @@ header:
   image: ""
 ---
 <body>
-<p>We offer advisory services to governments and institutions.</p>
+<p>We offer advisory services to governments and institutions. Below are some of our most recent collaborations. </p>
 </body>
