@@ -13,7 +13,7 @@ header:
   caption: ""
   image: ""
 ---
-<p> English:
+<p style="font-size:60%;"> English:
 We focus on research questions at the intersection of public law, technology, and medicine. We are driven by the goal to conduct research that serves society and countries. 
 Within our research activities, we focus on questions of how to regulate and improve access to emerging technologies in general (e.g., artificial intelligence) and with a special focus on medicine (e.g., cancer drugs, medical products). We also focus on questions of how technology impacts the law, and how technology can serve the public while respecting individuals’ fundamental rights.
 Methodologically, our group applies traditional legal methods in public law as well as empirical methods to develop policy and regulatory implications in the areas of public law, technology, and medicine (regulatory sciences). 
