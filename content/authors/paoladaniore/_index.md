@@ -7,7 +7,7 @@ authors:
 - paoladaniore
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Researcher
@@ -23,17 +23,16 @@ bio: I am interested in evidence-driven health policy advancements.
 interests:
 - Empirical Research
 - Data Science
-- Medicine
 - Health Policy
 
 education:
   courses:
   - course: Management, Technology and Economics (M.Sc.)
     university: ETH Zurich, Switzerland
-    graduation year: 2019
+    year: 2019
   - course: B.Eng. Chemical Engineering
     university: McGill University, Canada
-    graduation year: 2015
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,4 +61,4 @@ user_groups:
 - Researchers
 ---
 
-Paola is interested in the application of data science in healthcare, in order to contribute to the development of health policy.
+Paola is interested in the application of data science in healthcare in order to contribute to the development of health policy.
