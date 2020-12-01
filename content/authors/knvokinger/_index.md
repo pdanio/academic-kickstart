@@ -7,30 +7,48 @@ authors:
 - knvokinger
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Principal Investigator
+role: Head of Research Group
 
 # Organizations/Affiliations
 organizations:
-- name: University of Zurich RWI
-  url: ""
+- name: Institute of Law at the University of Zurich
+  url: "https://www.ius.uzh.ch/en/staff/professorships/alphabetical/vokinger/vokinger.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Prof. Dr. iur. Et Dr. med. Kerstin Noelle Vokinger, LL.M.
 
 interests:
  - Public Law
-
+ - Medical Law
+ - Data Protection Law
+ 
 education:
    courses:
-   - course: MS in Computer Science
-     institution: Rensselaer Polytechnic Institute
+   - course: Dr.med. Medical Dissertation
+     institution: University of Basel
+     year: 2017
+   - course: Master of Laws (LL.M.)
+     institution: Harvard Law School
+     year: 2016
+   - course: Medical State Exam
+     institution: Switzerland
      year: 2015
-   - course: BSc in Interdisciplinary Science
-     institution: Rensselaer Polytechnic Institute
+   - course: PhD in Biomedical Ethics and Law
+     institution: University of Zurich
      year: 2015
+   - course: BMed and MMed in Human Medicine
+     institution: University of Zurich
+     year: 2015
+   - course: Admittance to the Bar
+     institution: Switzerland
+     year: 2014
+   - course: BLaw and MLaw in Law
+     institution: University of Zurich
+     year: 2012
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
