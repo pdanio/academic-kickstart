@@ -13,6 +13,7 @@ image:
   placement: 1
   focal_point: ""
   preview_only: false
+share: false
 projects: []
 ---
 
