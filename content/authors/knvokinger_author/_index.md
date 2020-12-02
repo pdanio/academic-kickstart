@@ -80,16 +80,8 @@ highlight_name: true
 # - Group Head
 ---
 
-<i> English:</i>
 Kerstin N. Vokinger is Assistant Professor at the Law Faculty of the University of Zurich and Professor at the Digital Society Initiative (DSI) at the University of Zurich. She is also an Affiliated Faculty in the Program for Regulation, Therapeutics, and Law (PORTAL) at Harvard Medical School and a Faculty Associate at the Berkman Klein Center at Harvard University. 
 Kerstin N. Vokinger studied in parallel law and medicine at the University of Zurich and conducted her PhD in the program “Biomedical Ethics and Law” at the University of Zurich. After admission to the bar as an Attorney at Law, she completed a Masters of Laws (LL.M.) at Harvard Law School (Cambridge, USA). 
 Kerstin N. Vokinger was a Research Assistant at the Academic Chair of Professor Dr. iur. Thomas Gächter, a Visiting Researcher with Prof. Dr. iur. Urs Gasser, LL.M. at the Berkman Klein Center for Internet and Society at Harvard University (Cambridge, USA), and a Postdoc Fellow with Professor Aaron S. Kesselheim, MD, JD, MPH, in the Program on Regulation, Therapeutics, and Law (PORTAL) at Harvard Medical School (Boston, USA). 
 In her research, she focuses on questions at the intersection of public law, medicine, and technology. Her studies have been published in national and international legal, medical, and health policy journals, and presented at national and international conferences. 
 In her areas of expertise Kerstin N. Vokinger also advises governmental authorities, and non-profit national and international organizations. 
-
-<i> German:</i>
-Kerstin N. Vokinger ist Assistenzprofessorin an der Rechtswissenschaftlichen Fakultät der Universität Zürich und Professorin an der Digital Society Initiative (DSI) an der Universität Zürich. Sie ist auch Affiliated Faculty im Program for Regulation, Therapeutics, and Law (PORTAL) an der Harvard Medical School sowie Associate Faculty am Berkman Klein Center for Internet and Society an der Harvard University. 
-Kerstin N. Vokinger hat parallel Jurisprudenz und Medizin an der Universität Zürich studiert sowie einen PhD im Programm «Biomedical Ethics and Law» an der Universität Zürich erlangt. Nach Erlangung des Anwaltspatents absolvierte sie einen Masters of Law (LL.M.) an der Harvard Law School (Cambridge, USA). 
-Kerstin N. Vokinger war wissenschaftliche Assistentin am Lehrstuhl von Prof. Dr. iur. Thomas Gächter, Visiting Researcher bei Prof. Dr. iur. Urs Gasser, LL.M. am Berkman Klein Center for Internet and Society an der Harvard University (Cambridge, USA), und Postdoc Fellow bei Professor Aaron S. Kesselheim, MD, JD, MPH, im Program on Regulation, Therapeutics, and Law (PORTAL) an der Harvard Medical School (Boston, USA).
-Im Rahmen ihrer wissenschaftlichen Tätigkeit setzt sich Kerstin N. Vokinger mit Fragen an der Schnittstelle öffentliches Recht, Medizin und Technologien auseinander. Ihre Studien wurden in nationalen und internationalen rechtlichen, medizinischen und health policy Zeitschriften publiziert sowie an nationalen und internationalen Konferenzen präsentiert. 
-Kerstin N. Vokinger berät Behörden sowie Non-Profit nationale und internationale Organisationen in ihren Forschungsgebieten.
