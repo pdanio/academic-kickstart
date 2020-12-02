@@ -11,6 +11,7 @@ image:
   caption: 'So können Anonymisierungen in Gerichtsurteilen aufgehoben werden'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
