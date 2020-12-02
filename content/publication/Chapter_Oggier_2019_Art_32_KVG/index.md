@@ -5,6 +5,7 @@ authors:
 - Willy Oggier
 - knvokinger_author
 publication_types: ["6"]
+share: false
 featured: False
 publication: "*Blechta Gabor/Staffelbach Daniel/Colatrella Philomena (Hrsg.), Basler Kommentar zum Krankenversicherungsgesetz, Basel*"
 ---
