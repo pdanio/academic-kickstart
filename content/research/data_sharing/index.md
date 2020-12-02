@@ -15,6 +15,7 @@ image:
   caption: 'Source: https://patientengagementhit.com/news/do-health-data-security-concerns-influence-patient-data-sharing'
   focal_point: ""
   preview_only: false
+share: false
 projects: []
 ---
 
