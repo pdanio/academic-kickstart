@@ -11,6 +11,7 @@ image:
   caption: 'ESMO 2018: Highest Benefit Cancer Drugs Receive Faster Approval in European Union'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
