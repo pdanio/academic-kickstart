@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Paola Daniore
+title: Paola Daniore, M.Sc., B.Eng.
 
 # Username (this should match the folder name)
 authors:
