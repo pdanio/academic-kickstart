@@ -11,6 +11,7 @@ image:
   caption: 'Coverage on Plaedoyer'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
