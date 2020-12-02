@@ -10,7 +10,7 @@ tags:
 categories:
 - Medicine and Technology
 image:
-  placement: 2
+  placement: 1
   focal_point: ""
   preview_only: false
 projects: []
