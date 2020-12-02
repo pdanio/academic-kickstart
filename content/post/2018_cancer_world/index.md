@@ -11,6 +11,7 @@ image:
   caption: 'Reimbursement of newly approved cancer drugs may take more than one year'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
