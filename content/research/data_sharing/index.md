@@ -1,8 +1,8 @@
 ---
-title: Prices and clinical benefit of cancer drugs in the USA and Europe
-summary: A cost-benefit analysis
+title: Data sharing in health research
+summary: A legal and health policy analysis
 authors: 
-- knvokinger
+- paoladaniore
 date: 2020-12-01
 tags: 
 - Medicine and Technology
@@ -12,10 +12,10 @@ categories:
 - Medicine and Technology
 image:
   placement: 2
-  caption: 'Source: https://www.europeanpharmaceuticalreview.com/wp-content/uploads/Campaign-calls-for-more-effort-to-combat-fake-medicines.gif'
+  caption: 'Source: https://patientengagementhit.com/news/do-health-data-security-concerns-influence-patient-data-sharing'
   focal_point: ""
   preview_only: false
 projects: []
 ---
 
-Increasing cancer drug prices are a challenge for patients and health systems in the USA and Europe. By contrast with the USA, national authorities in European countries often directly negotiate drug prices with manufacturers. The American Society of Clinical Oncology (ASCO) and the European Society for Medical Oncology (ESMO) developed frameworks to evaluate the clinical value of cancer therapies: the ASCO-Value Framework (ASCO-VF) and the ESMO-Magnitude of Clinical Benefit Scale (ESMO-MCBS). We aimed to assess the association between the clinical benefit of approved cancer drugs based on these frameworks and their drug prices in the USA and four European countries (England, Switzerland, Germany, and France).
+The increased availability and heterogeneity of health data has prompted the recent increase in data sharing initiatives between foundations, research institutions and the public itself. Such initiatives have led to major developments - especially with the use of AI models - in medical research. On the other hand, the increased linkage of disparate data increasingly puts involved individuals who own the data at risk of re-identification through linkage attacks. As such, data protection legislations such as the European General Data Protection Regulation (GDPR) and the Swiss Health Research Act (HRA) play an important role in defining the privacy requirements to share personal health data, as well as play a pivotal role in drafting internal data policies and data sharing agreements. Our current analysis assesses the current landscape of health data sharing initiatives, how they are defined in policies and how they comply to regulations.
