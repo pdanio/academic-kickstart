@@ -61,4 +61,7 @@ user_groups:
 - Researchers
 ---
 
-Paola is interested in the application of data science in healthcare in order to contribute to the development of health policy.
+Paola Daniore is a researcher in the Vokinger Research Group and a PhD candidate at the University of Zurich. She is also a candidate in the Excellence Program at the Digital Society Initiative, University of Zurich. 
+Paola Daniore studied Chemical Engineering at McGill University (Canada) and Management, Technology, and Economics at the ETH (Zurich). During her studies at the ETH, she worked as a Research Assistant at the Academic Chair of Professor Michael Ambühl with a focus on public policy. 
+In her research, she focuses on the application of data science in the areas of medicine, technology, and law. Paola Daniore has programming skills in R and Python. Her studies have been published in national and international journals and presented in international conferences. She also advises governmental authorities, and non-profit national and international organizations.
+
