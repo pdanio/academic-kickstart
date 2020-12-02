@@ -30,8 +30,8 @@ publishDate: "2020-06-01T13:00:00Z"
 # featured: true
 
 # image:
-# #   caption: 
-  focal_point: Right
+#   caption: 
+#  focal_point: Right
 
 # links:
 # - icon: twitter
