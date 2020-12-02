@@ -11,6 +11,7 @@ image:
   caption: 'Gewinner sind fast immer die Krankenkassen'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
