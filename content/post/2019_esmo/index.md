@@ -11,6 +11,7 @@ image:
   caption: 'New studies question whether novel anti-cancer drugs are worth their extra cost'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
