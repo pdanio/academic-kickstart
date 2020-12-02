@@ -11,6 +11,7 @@ image:
   caption: 'Die Anonymisierung in Gerichtsurteilen bringt nichts'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
