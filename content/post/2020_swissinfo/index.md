@@ -11,6 +11,7 @@ image:
   caption: 'Swiss study sees no link between cancer drug prices and patient benefits'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
