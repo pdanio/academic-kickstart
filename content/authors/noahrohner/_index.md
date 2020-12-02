@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Noah Rohner
+title: Noah Rohner, cand. iur.
 
 # Username (this should match the folder name)
 authors:
@@ -61,4 +61,6 @@ user_groups:
 - Researchers
 ---
 
-Noah is a Research Assistant and studies law at the University of Zurich. He is focusing on public law, health law, and technology law.
+Noah Rohner is a Scientific Assistant in the research group of Professor Vokinger in the area of public law with a special focus on administrative law and constitutional law. 
+Noah Rohner studies law at the University of Zurich with a focus on public law.
+
