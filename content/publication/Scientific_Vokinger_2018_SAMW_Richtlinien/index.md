@@ -6,6 +6,7 @@ authors:
  - Mirjam Olah
 publication_types: ["2"]
 featured: False
+share: false
 publication: "*Pflegerecht*"
 url_pdf: "https://pflegerecht.recht.ch/de/epaper/9718/detail#152"
 ---
