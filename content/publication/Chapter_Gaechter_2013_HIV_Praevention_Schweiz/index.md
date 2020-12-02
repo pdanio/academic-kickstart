@@ -5,6 +5,7 @@ authors:
 - Thomas Gaechter
 - knvokinger_author
 publication_types: ["6"]
+share: false
 featured: False
 publication: "*Entwicklungen und Perspektiven, in: Ärztekammer Mecklenburg-Vorpommern (Hrsg.), Die Dekriminalisierungsaspekte und ihre rechtlichen Folgen, 5. Workshop des AIDS-Ausschusses der Ärztekammer Mecklenburg-Vorpommern 2013 *"
 url_pdf: "https://www.zora.uzh.ch/id/eprint/115944/13/HIV_Gaechter_Vokinger.pdf"
