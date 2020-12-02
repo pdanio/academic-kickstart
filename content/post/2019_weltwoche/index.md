@@ -11,6 +11,7 @@ image:
   caption: 'Coverage on Die Weltwoche'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
