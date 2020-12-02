@@ -11,6 +11,7 @@ image:
   caption: 'Artificial Intelligence Is Rushing Into Patient Care—And Could Raise Risks'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
