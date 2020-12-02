@@ -5,5 +5,6 @@ authors:
  - knvokinger_author
 publication_types: ["5"]
 featured: False
+share: false
 publication: "*Zürcher Studien zum Öffentlichen Recht, Band 243, Zürich/Basel/Genf 2016*"
 ---
