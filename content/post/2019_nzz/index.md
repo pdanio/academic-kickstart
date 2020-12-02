@@ -11,6 +11,7 @@ image:
   caption: 'Longer waiting times for the approval coverage of new cancer drugs puts cancer patients at risk'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
