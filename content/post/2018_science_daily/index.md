@@ -11,6 +11,7 @@ image:
   caption: 'Securing access to optimal cancer care through innovation, integration and sustainability'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
