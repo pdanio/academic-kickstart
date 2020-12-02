@@ -2,7 +2,7 @@
 title: Launch Prices and Price Developments of Cancer Drugs in the US and Europe
 event: ASCO (American Society for Medical Oncology) Conference
 # event_url: https://example.org
-
+profile: false
 location: Chicago
 # address:
 #   street: 450 Serra Mall
