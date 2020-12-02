@@ -7,6 +7,7 @@ authors:
  - Thomas Rosemann
  - Peter Steiger
 publication_types: ["2"]
+share: false
 featured: False
 publication: "*Jusletter*"
 url_pdf: "https://jusletter.weblaw.ch/fr/dam/publicationsystem/articles/jusletter/2019/989/965/zulassigkeit-der-dea_7717a09126/Jusletter_zulassigkeit-der-dea_7717a09126_fr.pdf"
