@@ -6,5 +6,6 @@ authors:
 - knvokinger_author
 publication_types: ["6"]
 featured: False
+share: false
 publication: "*Rütsche Bernhard (Hrsg)., Tagungsband Medizinprodukte: Regulierung und Haftung, Luzern 2013*"
 ---
