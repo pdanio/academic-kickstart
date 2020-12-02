@@ -11,6 +11,7 @@ image:
   caption: 'Report: Times Vary Widely on Reimbursement Decisions for New Cancer Drugs in EU'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
