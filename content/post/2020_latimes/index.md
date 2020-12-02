@@ -11,6 +11,7 @@ image:
   caption: 'Artificial intelligence has come to medicine. Are patients being put at risk?'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
