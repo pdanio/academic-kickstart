@@ -13,6 +13,7 @@ authors:
 publication_types: ["2"]
 abstract: "To evaluate the diagnostic performance of bone texture analysis (TA) combined with machine learning (ML) algorithms in standard CT scans to identify patients with vertebrae at risk for insufficiency fractures."
 featured: False
+share: false
 publication: "*European Radiology*"
 url_pdf: "https://scholar.google.com/scholar_url?url=https://link.springer.com/content/pdf/10.1007/s00330-018-5846-8.pdf&hl=en&sa=T&oi=ucasa&ct=usl&ei=OLuuX9H3EP2Jy9YP3cyryAE&scisig=AAGBfm3eTXhl109LowPRggAL6INxeP52lw"
 doi: "10.1007/s00330-018-5846-8"
