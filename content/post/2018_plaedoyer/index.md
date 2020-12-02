@@ -11,6 +11,7 @@ image:
   caption: 'In dubio pro Krankenkasse'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
