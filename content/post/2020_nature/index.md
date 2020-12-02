@@ -11,6 +11,7 @@ image:
   caption: 'Research round-up: Precision oncology'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
