@@ -5,6 +5,7 @@ authors:
  - knvokinger_author
 publication_types: ["4"]
 featured: False
+share: false
 publication: "*Life Science Recht*"
 ---
 
