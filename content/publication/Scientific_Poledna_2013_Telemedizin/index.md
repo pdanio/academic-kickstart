@@ -6,6 +6,7 @@ authors:
  - knvokinger_author
 publication_types: ["2"]
 featured: False
+share: false
 publication: "*Aktuelle Juristische Praxis*"
 url_pdf: "https://www.dike.ch/AJP-2-2013"
 ---
