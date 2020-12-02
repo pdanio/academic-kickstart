@@ -6,5 +6,6 @@ authors:
 publication_types: ["4"]
 featured: False
 publication: "*Life Science Recht*"
+share: false
 url_pdf: "https://lsr.recht.ch/de/epaper/9810/detail#41"
 ---
