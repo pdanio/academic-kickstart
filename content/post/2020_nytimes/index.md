@@ -11,6 +11,7 @@ image:
   caption: 'Gilead’s Covid-19 Drug is Mediocre. It Will Be a Blockbuster Anyway'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
