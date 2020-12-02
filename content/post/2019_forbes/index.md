@@ -11,6 +11,7 @@ image:
   caption: 'Researchers Use Big Data And AI To Remove Legal Confidentiality'
   focal_point: ""
   preview_only: true
+share: false
 projects: []
 ---
 
