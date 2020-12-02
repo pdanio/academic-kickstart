@@ -5,6 +5,7 @@ authors:
  - Daniel Staffelbach
  - knvokinger_author
 publication_types: ["4"]
+share: false
 featured: False
 publication: "*HAVE*"
 ---
