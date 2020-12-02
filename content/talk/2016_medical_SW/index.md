@@ -1,5 +1,5 @@
 ---
-title: Medical Software Patents and Public Health: Rethinking Medicine in the Digital Age. National Approaches in the International IP Regime
+title: Medical Software Patents and Public Health, Rethinking Medicine in the Digital Age. National Approaches in the International IP Regime
 event: WIPO/UNO
 profile: false
 
