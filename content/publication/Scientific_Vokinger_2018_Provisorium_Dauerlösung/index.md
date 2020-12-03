@@ -1,6 +1,6 @@
 ---
 title: "Vom Provisorium zur Dauerlösung? - Eine Würdigung der vom Bundesrat vorgelegten Lösung zum Ärzte-Stopp bzw. zur Zulassungssteuerung"
-publishDate: "2018-01-291T00:00:00Z"
+publishDate: "2018-01-29T00:00:00Z"
 authors: 
  - knvokinger_author
  - Thomas Rosemann
