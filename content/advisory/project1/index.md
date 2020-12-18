@@ -1,5 +1,5 @@
 ---
-title: Prices and clinical benefit of cancer drugs in the USA and Europe
+title: Prices and clinical benefit of cancer drugs 
 summary: A cost-benefit analysis
 authors: 
 - knvokinger
